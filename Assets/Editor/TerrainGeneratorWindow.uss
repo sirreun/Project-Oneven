@@ -1,0 +1,36 @@
+.header
+{
+	-unity-font-style: bold;
+	font-size: 20px;
+}
+
+#ruleset-name-box
+{
+	min-height: 40px;
+	max-height: 40px;
+	font-size: 24px;
+	justify-content: center;
+}
+
+#inputs-box
+{
+	min-height: 60px;
+}
+
+#button-box
+{
+	justify-content: center;
+}
+
+TextElement
+{
+	text-align: middle-center;
+}
+
+Button
+{
+	max-height: 20px;
+	min-height: 20px;
+	min-width: 40px;
+	justify-content: center;
+}

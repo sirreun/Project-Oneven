@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd"
+>   
+    <engine:Box name="full-window">
+        <engine:ListView name="tagconstraint-list"/>
+        <engine:Box name="overview-box">
+            <engine:Label name="ruleset-name"/>
+            <engine:Button name="initialize-new-tagconstraint-button" text="new tag constraint"/>
+        <engine:Box/>
+        <engine:Box name="tagconstraint">
+            <engine:ScrollView name="tagconstraint-info-scroll">
+                <engine:Box name="tagconstraint-info">
+                    <engine:TextField name="tag-name"/>
+                    <engine:Button name="add-constraint-button" text="add constraint"/>
+                </engine:Box>
+            </engine:ScrollView>
+        </engine:Box>
+        <engine:Box name="tagconstraint-list-toolbar">
+            <engine:Button name="confirm-ruleset-button" text="confirm"/>
+        </engine:Box>
+    </engine:Box>
+    
+    
+</engine:UXML>

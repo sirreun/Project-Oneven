@@ -1,0 +1,15 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd">
+    <Style src="project://database/Assets/Editor/TerrainEditorStyles.uss?fileID=7433441132597879392&amp;guid=5139203b37b0d8a43b528d9a10b671c3&amp;type=3#TerrainEditorStyles" />
+    <ui:Box name="container" style="flex-direction: row;">
+        <ui:ListView name="ruleset-list" show-add-remove-footer="true" allow-add="true" allow-remove="true"/>
+        <ui:ListView name="tagconstraint-list" show-add-remove-footer="true" allow-add="true" allow-remove="true"/>
+        <ui:Box name="ruleset">
+            <ui:ScrollView name="ruleset-info-scroll">
+                <ui:Box name="ruleset-info" />
+            </ui:ScrollView>
+            <ui:Box name="toolbar">
+                <ui:Button name="generate-terrain-button" text="Generate"/>
+            </ui:Box>
+        </ui:Box>
+    </ui:Box>
+</ui:UXML>

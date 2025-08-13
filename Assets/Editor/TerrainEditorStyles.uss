@@ -1,0 +1,68 @@
+.header
+{
+	-unity-font-style: bold;
+	font-size: 20px;
+}
+
+#ruleset-list-container
+{
+	max-width: 240px;
+	justify-content: space-between;
+}
+
+#ruleset-list
+{
+	max-width: 240px;
+	min-width: 240px;
+}
+
+#tagconstraint-list
+{
+	align-self: stretch;
+}
+
+#list-toolbar
+{	
+	justify-content: center;
+	max-height: 30px;
+	max-width: 240px;
+	min-width: 240px;
+}
+
+#ruleset-info-scroll
+{
+	flex-grow: 1;
+	align-self: stretch;
+}
+
+#toolbar
+{
+	max-height: 20px;
+	min-height: 20px;
+}
+
+
+Box
+{
+	flex-grow: 1;
+}
+
+TemplateContainer
+{
+	flex-grow: 1;
+}
+
+ListView
+{
+	width: 240px;
+	-unity-text-align: middle-center;
+}
+
+Button
+{
+	max-height: 20px;
+	min-height: 20px;
+	min-width: 40px;
+	justify-content: center;
+	align-self: flex-end;
+}

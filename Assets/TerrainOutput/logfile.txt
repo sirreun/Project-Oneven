@@ -1,0 +1,398 @@
+Generating Terrain with 3 columns and 3 rows.
+Initialized probability grid to:
+	> Forest with weight 2
+	> Grass with weight 3
+	> Water with weight 2
+
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (0, 1).
+Cut Points Generated: 2, 5, 7, 
+Selected value from 1 to 7 is 2
+Selected Forest for tile (0, 1).
+
+Recalculating probability grid.
+Loop number 1:
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (0, 0) to:
+	> Forest with weight 3
+	> Grass with weight 4
+
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (1, 1) to:
+	> Forest with weight 7
+	> Grass with weight 10
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (0, 2) to:
+	> Forest with weight 3
+	> Grass with weight 4
+
+
+-----------------------------------------------
+
+Loop number 2:
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 0) to:
+	> Forest with weight 12
+	> Grass with weight 17
+
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 1) to:
+	> Forest with weight 11
+	> Grass with weight 16
+
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 2) to:
+	> Forest with weight 12
+	> Grass with weight 17
+
+
+-----------------------------------------------
+
+Loop number 3:
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 0) to:
+	> Forest with weight 23
+	> Grass with weight 33
+
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 2) to:
+	> Forest with weight 23
+	> Grass with weight 33
+
+
+-----------------------------------------------
+
+~, Forest, ~, 
+~, ~, ~, 
+~, ~, ~, 
+
+Loop number 1:
+1 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (2, 1).
+Cut Points Generated: 11, 27, 
+Selected value from 1 to 27 is 16
+Selected Grass for tile (2, 1).
+
+Recalculating probability grid.
+Loop number 1:
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 0) to:
+	> Forest with weight 13
+	> Grass with weight 18
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 2) to:
+	> Forest with weight 13
+	> Grass with weight 18
+
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (1, 1) to:
+	> Forest with weight 26
+	> Grass with weight 36
+
+
+-----------------------------------------------
+
+Loop number 2:
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 0) to:
+	> Forest with weight 42
+	> Grass with weight 58
+
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 2) to:
+	> Forest with weight 42
+	> Grass with weight 58
+
+
+-----------------------------------------------
+
+Loop number 3:
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (0, 0) to:
+	> Forest with weight 43
+	> Grass with weight 59
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (0, 2) to:
+	> Forest with weight 43
+	> Grass with weight 59
+
+
+-----------------------------------------------
+
+~, Forest, ~, 
+~, ~, ~, 
+~, Grass, ~, 
+
+Loop number 2:
+2 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (1, 1).
+Cut Points Generated: 26, 62, 
+Selected value from 1 to 62 is 20
+Selected Forest for tile (1, 1).
+
+Recalculating probability grid.
+Loop number 1:
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 0) to:
+	> Forest with weight 57
+	> Grass with weight 78
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (1, 2) to:
+	> Forest with weight 57
+	> Grass with weight 78
+
+
+-----------------------------------------------
+
+Loop number 2:
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 0) to:
+	> Forest with weight 58
+	> Grass with weight 79
+
+Tile has not yet been selected, use the orignal list of options.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (0, 0) to:
+	> Forest with weight 58
+	> Grass with weight 79
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (2, 2) to:
+	> Forest with weight 58
+	> Grass with weight 79
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Tile has not yet been selected, use the orignal list of options.
+Changed tile (0, 2) to:
+	> Forest with weight 58
+	> Grass with weight 79
+
+
+-----------------------------------------------
+
+~, Forest, ~, 
+~, Forest, ~, 
+~, Grass, ~, 
+
+Loop number 3:
+3 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (1, 0).
+Cut Points Generated: 57, 135, 
+Selected value from 1 to 135 is 59
+Selected Grass for tile (1, 0).
+
+Recalculating probability grid.
+Loop number 1:
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 0) has already been selected.
+Changed tile (2, 0) to:
+	> Forest with weight 2
+	> Grass with weight 2
+	> Water with weight 2
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 0) has already been selected.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Changed tile (0, 0) to:
+	> Forest with weight 2
+	> Grass with weight 2
+
+
+-----------------------------------------------
+
+~, Forest, ~, 
+Grass, Forest, ~, 
+~, Grass, ~, 
+
+Loop number 4:
+4 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (1, 2).
+Cut Points Generated: 57, 135, 
+Selected value from 1 to 135 is 104
+Selected Grass for tile (1, 2).
+
+Recalculating probability grid.
+Loop number 1:
+Current tile has already been selected, use the options for the selected tile type.
+Tile (2, 1) has already been selected.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 2) has already been selected.
+Changed tile (2, 2) to:
+	> Forest with weight 2
+	> Grass with weight 2
+	> Water with weight 2
+
+Current tile has already been selected, use the options for the selected tile type.
+Tile (0, 1) has already been selected.
+Current tile has already been selected, use the options for the selected tile type.
+Tile (1, 2) has already been selected.
+Changed tile (0, 2) to:
+	> Forest with weight 2
+	> Grass with weight 2
+
+
+-----------------------------------------------
+
+~, Forest, ~, 
+Grass, Forest, Grass, 
+~, Grass, ~, 
+
+Loop number 5:
+5 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (0, 0).
+Cut Points Generated: 2, 4, 
+Selected value from 1 to 4 is 3
+Selected Grass for tile (0, 0).
+
+Recalculating probability grid.
+Loop number 1:
+
+-----------------------------------------------
+
+Grass, Forest, ~, 
+Grass, Forest, Grass, 
+~, Grass, ~, 
+
+Loop number 6:
+6 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (0, 2).
+Cut Points Generated: 2, 4, 
+Selected value from 1 to 4 is 1
+Selected Forest for tile (0, 2).
+
+Recalculating probability grid.
+Loop number 1:
+
+-----------------------------------------------
+
+Grass, Forest, Forest, 
+Grass, Forest, Grass, 
+~, Grass, ~, 
+
+Loop number 7:
+7 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (2, 0).
+Cut Points Generated: 2, 4, 6, 
+Selected value from 1 to 6 is 3
+Selected Grass for tile (2, 0).
+
+Recalculating probability grid.
+Loop number 1:
+
+-----------------------------------------------
+
+Grass, Forest, Forest, 
+Grass, Forest, Grass, 
+Grass, Grass, ~, 
+
+Loop number 8:
+8 of 9 completed.
+
+-----------------------------------------------
+
+-----------------------------------------------
+Tile selected: (2, 2).
+Cut Points Generated: 2, 4, 6, 
+Selected value from 1 to 6 is 3
+Selected Grass for tile (2, 2).
+
+Recalculating probability grid.
+Loop number 1:
+
+-----------------------------------------------
+
+Grass, Forest, Forest, 
+Grass, Forest, Grass, 
+Grass, Grass, Grass, 
+
+Loop number 9:
+9 of 9 completed.
+
+ FINAL GRID:
+Grass, Forest, Forest, 
+Grass, Forest, Grass, 
+Grass, Grass, Grass, 
+

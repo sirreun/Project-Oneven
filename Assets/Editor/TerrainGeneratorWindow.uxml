@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd"
+>
+    <engine:Box>
+        <engine:Box name="ruleset-name-box">
+            <engine:TextElement name="ruleset-name"/>
+        </engine:Box>
+        <engine:Box name="inputs-box">
+            <engine:TextField label="Height" name="height-input"/>
+            <engine:TextField label="Width" name="width-input"/>
+        </engine:Box>
+        <engine:Box name="button-box">
+            <engine:Button name="generate-terrain-button" text="Generate"/>
+        </engine:Box>
+    </engine:Box>
+    
+</engine:UXML>
